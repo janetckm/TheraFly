@@ -1,10 +1,10 @@
 # TheraFly
-Therapeutic VR for direct-indirect intervention on Acrophobia (Fear of Height)
+Therapeutic VR for Direct-Indirect Intervention on Acrophobia (Fear of Height)
 
 ![Model](https://github.com/janetckm/TheraFly/blob/cfc2f198f338ca998f0a2d76c02934b1926c2949/TheraFly/work_therafly_thumbnail.gif?raw=true)
 
 ## Abstract
-TheraFly is a therapeutic VR experience for people to have an direct-indirect intervention on acrophobia. While the visual experience is a direct confrontation for the fear of heights, TheraFly is an indirect experience for the user to face this anxiety through the medium of gaming experience with an imaginal approach. Position the user as an undercover, the storyline is not directly related to the heights. Rather, we utilize immersive storytelling techniques to create plots for people to enjoy as the player or character in the undercover movies (e.g., Infernal Affairs) instead of a patient who is having treatment with a therapist. The TheraFly system aims to provide both virtual and haptic interactions to enhance the therapeutic effectiveness of acrophobia and have a less subjective assessment with data collection of bio signal sensors, e.g., a pulse sensor to examine the nervousness of the user to assess and evaluate the effectiveness with the quantitative result, which is comparatively accurate than the self assessment.
+TheraFly is a therapeutic virtual reality (VR) intervention designed to address acrophobia by employing a dual approach – direct confrontation through immersive visual experiences and indirect intervention via gamified storytelling. Positioned as an undercover agent within the storyline, users engage in an imaginal approach, distinct from traditional patient-therapist treatment dynamics. The narrative, inspired by Hong Kong undercover movies like "Infernal Affairs," diverges from a direct focus on heights, creating an immersive gaming and therapeutic experience. TheraFly incorporates virtual and haptic interactions, enhancing therapeutic efficacy. The system integrates bio-signal sensors, including pulse sensors, for objective data collection, which offers a quantitative assessment of user nervousness and provides a more accurate evaluation compared to subjective self-assessments, contributing to a comprehensive understanding of therapeutic outcomes.
 
 ## Demonstration Video
 https://youtu.be/PFQKp8TbGZ0
